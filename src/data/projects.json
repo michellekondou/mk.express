@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "project_slug": "motb-birthdate",
+        "project_title": "Museum of the Bible: Birthday Bookmark Generator",
+        "project_description": "<p>This is a touch application hosted in a Kiosk, in the <a href='#'>Museum of the Bible</a> in Washington D.C. It is driven by the <a href='#'>Django CMS</a> (python).</p>",
+        "my_role": "<p>I worked on this application for <a href='#'>C & G partners</a>. I built the frontend (HTML, CSS, JavaScript), User Interface, designed where needed and coded the animations. Subtle animations with sounds in the background.</p>",
+        "project_media": {
+            "videos": [
+                {
+                    "filepath": "media/video/",
+                    "filename": "Birthday-Card-Machine-Kiosk.mp4",
+                    "poster": ""
+                }
+            ],
+            "images": [
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-intro-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-screen-intersticial",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-select-birthdate-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {   
+                    "filepath": "media/images/", 
+                    "filename": "motb-birthdate-app-input-name-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-printing-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-printed-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-birthdate-app-input-name-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Birthdate: This is waiting for a good alt"
+                }
+           ]
+        }
+    },
+    {
+        "id": 2,
+        "project_slug": "motb-hebrew-language",
+        "project_title": "Museum of the Bible: Hebrew Language",
+        "project_description": "<p>This is a touch application hosted in a Kiosk, in the <a href='#'>Museum of the Bible</a> in Washington D.C. It is driven by the <a href='#'>Django CMS</a> (python).</p>",
+        "my_role": "<p>I worked on this application for <a href='#'>C & G partners</a>. I built the frontend (HTML, CSS, JavaScript), User Interface, designed where needed and coded the animations. Subtle animations with sounds in the background.</p>",
+        "project_media": {
+            "videos": [],
+            "images": [
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-hebrew-app-intro-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Hebrew: This is waiting for a good alt"
+                },   
+                {
+                    "filepath": "media/images/",
+                    "filename": "motb-hebrew-app-screen-intersticial",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "MOTB Hebrew: This is waiting for a good alt"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "project_slug": "waterpolis",
+        "project_title": "Waterpolis: Sustainable practices for water collection",
+        "project_description": "<p>This is an application </p>",
+        "my_role": "<p>I worked on this application for <a href='#'>MIO</a>. I built the frontend (HTML, CSS, JavaScript) and backend (Wordpress CMS)</p>",
+        "project_media": {
+            "videos": [],
+            "images": [
+                {
+                    "filepath": "media/images/",
+                    "filename": "neroupoli-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "Waterpolis: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "neroupoli-intersticial",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "Waterpolis: This is waiting for a good alt"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "project_slug": "alistapart",
+        "project_title": "A List Apart: For people who make websites",
+        "project_subtitle": "Website for the renowned magazine",
+        "project_shortname": "A List Apart",
+        "project_description": "<p>This is an application </p>",
+        "my_role": "<p>Lead developer</p>",
+        "project_media": {
+            "videos": [],  
+            "images": [
+                {
+                    "filepath": "media/images/",
+                    "filename": "alistapart-screen",
+                    "caption":  "This is waiting for a good caption",
+                    "alt":      "This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "alistapart-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "This is waiting for a good alt"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "project_slug": "pcai",
+        "project_title": "PCAI: Polyeco Contemporary Art Initiative",
+        "project_subtitle": "Latest news and events funded by Polyeco",
+        "project_shortname": "PCAI",
+        "project_description": "<p>Wordpress CMS</p>",
+        "my_role": "<p>Front-end and Back-end</p>",
+        "project_media": {
+            "videos": [],
+            "images": [
+                {
+                    "filepath": "media/images/pcai",
+                    "filename": "pcai-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "PCAI: This is waiting for a good alt"
+                },
+                {
+                    "filepath": "media/images/",
+                    "filename": "pcai-screen",
+                    "caption": "This is waiting for a good caption",
+                    "alt": "This is waiting for a good alt"  
+                }
+            ]
+        }
+    }
+]
