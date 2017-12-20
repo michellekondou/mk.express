@@ -17,7 +17,7 @@ var fs = require('fs');
 function createVirtualHost(domainName, dirPath) {
   return vhost(domainName, express.static(dirPath));
 }
-var mkExpressHost = createVirtualHost("waterpolis.local", "waterpolis");
+var mkExpressHost = createVirtualHost("waterpolis.local", "_waterpolis");
 app.use(mkExpressHost);
 
 /**

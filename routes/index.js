@@ -46,9 +46,9 @@ var getProjects = function (name, callback) {
 
 router.get('/project/:name', function (req, res, next) {
   var name = req.params.name;
-  getCases(name, function (error, point) {
+  getProjects(name, function (error, project) {
     if (error) return next(error);
-    return res.render('case', project);
+    return res.render('project', project);
   });
 });
 
